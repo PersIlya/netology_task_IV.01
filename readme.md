@@ -1,4 +1,4 @@
-# ## <p style="text-align: center;">ОТЧЕТ</p> <p style="text-align: center;">по домашним заданиям к занятию «Жизненный цикл ПО»</p>
+## <p style="text-align: center;">ОТЧЕТ</p> <p style="text-align: center;">по домашним заданиям к занятию «Жизненный цикл ПО»</p>
 ## <p style="text-align: right;">Выполнил: студент Порсев И.С.</p>
 
 ## Подготовка к выполнению
